@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/w2jjtdf_be2b51d93b9b60dddb3fd3bb7d41b53c_raw">
+
+</android.support.constraint.ConstraintLayout>
